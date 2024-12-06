@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-18116834de6493de202d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Traffic_light",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-65da49ffb15f1d0ae706.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e4e9599d4dc00cd3025b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8487d223f19a71a800f4.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-25a8cfbf0d1b002b749c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9957f0cbf0857efba414.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light-Debug-4fa83f261931759633d8.json",
+					"name" : "appTraffic_light",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_autogen-Debug-c85575a771e299006da4.json",
+					"name" : "appTraffic_light_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_autogen_timestamp_deps-Debug-b8a2832656c687722f88.json",
+					"name" : "appTraffic_light_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_generate_qmlls_ini_file-Debug-f32b150f849c92c32084.json",
+					"name" : "appTraffic_light_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_qmlimportscan-Debug-fb5d93d4fef030eebe2b.json",
+					"name" : "appTraffic_light_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_qmllint-Debug-1c527033ec8046e7fd60.json",
+					"name" : "appTraffic_light_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_qmllint_json-Debug-68097813bfff9438ad5e.json",
+					"name" : "appTraffic_light_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_qmllint_module-Debug-3307d13e5f095179b4b0.json",
+					"name" : "appTraffic_light_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_qmltyperegistration-Debug-a2d9218a78885a2c3ee3.json",
+					"name" : "appTraffic_light_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTraffic_light_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTraffic_light_tooling-Debug-4a75481a778b67c12628.json",
+					"name" : "appTraffic_light_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTraffic_light_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTraffic_light_aotstats_target-Debug-de6b5f71c7e2e5905377.json",
+					"name" : "module_appTraffic_light_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16",
+		"source" : "C:/ProgramData/QtCreator/Links/cb9da205d334cda3213f270979386efe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 378,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "cannot convert from (component in C:/ProgramData/QtCreator/Links/cb9da205d334cda3213f270979386efe/Main.qml)::parent with type QQuickItem to QQuickAnchorLine",
+                        "functionName": "horizontalCenter",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 361,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on horizontalCenter.",
+                        "functionName": "horizontalCenter",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "Cannot access value for name trafficLightController",
+                        "functionName": "target",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 1339,
+                        "errorMessage": "",
+                        "functionName": "onRedLight",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 1260,
+                        "errorMessage": "",
+                        "functionName": "onYellowLight",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 1139,
+                        "errorMessage": "",
+                        "functionName": "onGreenLight",
+                        "line": 95
+                    }
+                ],
+                "filepath": "C:/ProgramData/QtCreator/Links/cb9da205d334cda3213f270979386efe/Main.qml"
+            }
+        ],
+        "moduleId": "Traffic_light(appTraffic_light)"
+    }
+]

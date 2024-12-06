@@ -1,0 +1,60 @@
+{
+    "classes": [
+        {
+            "className": "TrafficLightController",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "Button",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "TrafficLightController",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "redLight",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "yellowLight",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "greenLight",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "startSequence",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 4,
+                    "name": "updateState",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "trafficlightcontroller.h",
+    "outputRevision": 68
+}

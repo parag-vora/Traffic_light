@@ -1,0 +1,10 @@
+--bare
+-I
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16
+-I
+C:/Qt/6.8.1/mingw_64/qml
+--resource
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/.qt/rcc/qmake_Traffic_light.qrc
+--resource
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/.qt/rcc/appTraffic_light_raw_qml_0.qrc
+C:/ProgramData/QtCreator/Links/cb9da205d334cda3213f270979386efe/Main.qml

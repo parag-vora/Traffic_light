@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Traffic_light">
+    <file alias="qmldir">C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/Traffic_light/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/ProgramData/QtCreator/Links/cb9da205d334cda3213f270979386efe
+-cmake-output
+-output-file
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/.qt/qml_imports/appTraffic_light_build.cmake
+-importPath
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/Traffic_light
+-importPath
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16
+-importPath
+C:/Qt/6.8.1/mingw_64/qml
+-qrcFiles
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/.qt/rcc/qmake_Traffic_light.qrc
+C:/ProgramData/QtCreator/Links/5c2497769b44eea5c78271cf6933ec16/.qt/rcc/appTraffic_light_raw_qml_0.qrc
